@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+
+}
+
+
+
+.newnewlayout{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    
+}
+
+
+
+.newnewlayout div{
+background-color: green;
+height: 20px;
+/* flex-shrink: 0; */
+width: 200px;
+flex-basis: 400px;  
+/* it will not decrease the actual size of flex basis */
+border: 2px dotted white;
+margin: 10px;
+}

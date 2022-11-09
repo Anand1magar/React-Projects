@@ -1,0 +1,58 @@
+h1{
+    font-size: 18px;
+
+
+}
+
+.parent h1{
+    background-color: red;
+    display: inline;
+} 
+
+#aside{
+    background: red;
+    color: white;
+    height: 50vh;
+}
+.red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.green{
+    justify-items: center;
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+
+body{
+    background-color: whitesmoke;
+    
+}
+
+#loader_div{
+    width: 100vh;
+    height: 100vh;
+    background-color: red;
+    align-items: center;
+    justify-items: center;
+
+
+    
+}
+
+#loader #iframeLoader{
+    width: 100px;
+     height: 100px;
+     align-items: center;
+     justify-content: center;
+
+}

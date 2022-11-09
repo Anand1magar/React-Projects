@@ -1,0 +1,15 @@
+body{
+    padding: 10px;
+    margin: 0;
+    line-height: 1.6;
+    
+}
+
+.yellow{
+    background: yellow;
+
+}
+
+.red{
+    background: red;
+}
